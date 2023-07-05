@@ -7,9 +7,8 @@
 ## 👏 팀 소개 
 |권정혁|최용빈|도유정|최보경|
 |:--:|:--:|:--:|:--:|
-|![image](https://github.com/khuda-3rd/README_example/assets/90135669/e5ebdc70-3dfa-493f-a865-3d14b2bc7685)|![image](https://github.com/khuda-3rd/README_example/assets/90135669/6f986eee-9e0d-48cb-b2f5-fa9cf785fb8e)|![image](https://github.com/khuda-3rd/README_example/assets/90135669/fcb6281e-6bdd-4f06-9cb7-eb5772c88803)|![image](https://github.com/khuda-3rd/README_example/assets/90135669/fcb6281e-6bdd-4f06-9cb7-eb5772c88803)|
-|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|
-|역할1|역할2|역할3|역할4|
+|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[[개인 리포지토리](https://github.com/B0gyeong)|
+|역할1|역할2|역할3|Modeling|
 
 
 ## 🔎 핵심 기능 구현
@@ -52,7 +51,3 @@
   <img width="488" alt="image" src="https://github.com/B0gyeong/khuda/assets/115474637/68f9034b-3632-4595-a447-899709d7f0cc">
 
 
-## 📄 Reference
-참고하셨던 깃허브 레퍼지토리, 논문, 등 자유롭게 참고하신 자료들 기재해주시면 됩니다.
-- [논문 링크](https://github.com/khuda-3rd)
-- [레퍼지토리 링크](https://github.com/khuda-3rd)
