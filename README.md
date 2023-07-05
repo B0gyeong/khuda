@@ -56,5 +56,9 @@
 - Streamlit을 이용
 - 기상청 단기예보 API를 활용하여 실시간 날씨를 받아온 후 날씨에 따른 추천 메뉴 받아옴
 
-  ![image](https://github.com/B0gyeong/khuda/assets/115474637/8baf55aa-49c0-4d9f-ac51-820a8df480cc)
+  <img width="327" alt="image" src="https://github.com/B0gyeong/khuda/assets/115474637/55f387b1-5297-43e0-acdf-bde9a7aabaec">
+
+  <img width="324" alt="image" src="https://github.com/B0gyeong/khuda/assets/115474637/e64b317e-ffd4-47e8-ad70-27609d4f652b">
+
+
 
