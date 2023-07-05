@@ -51,3 +51,10 @@
   <img width="488" alt="image" src="https://github.com/B0gyeong/khuda/assets/115474637/68f9034b-3632-4595-a447-899709d7f0cc">
 
 
+### 4. 웹 구현
+
+- Streamlit을 이용
+- 기상청 단기예보 API를 활용하여 실시간 날씨를 받아온 후 날씨에 따른 추천 메뉴 받아옴
+
+  ![image](https://github.com/B0gyeong/khuda/assets/115474637/8baf55aa-49c0-4d9f-ac51-820a8df480cc)
+
