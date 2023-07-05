@@ -8,7 +8,7 @@
 |권정혁|최용빈|도유정|최보경|
 |:--:|:--:|:--:|:--:|
 |[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/B0gyeong)|
-|Modeling|Modeling,Serving|Modeling|Modeling|
+|Modeling|Modeling, Serving|Modeling|Modeling|
 
 
 ## 🔎 핵심 기능 구현
